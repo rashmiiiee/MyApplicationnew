@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewApplication</string>
+    <string-array name="movies_name">
+        <item>"BabyDayOut"</item>
+        <item>"InsideOut"</item>
+        <item>"Dangerous"</item>
+        <item>"Me"</item>
+        <item>"Them"</item>
+    </string-array>
+    <string-array name="Description">
+        <item>"Childrens Movie"</item>
+        <item>"horror movie"</item>
+        <item>"horrible movie"</item>
+        <item>"hjsfgfdxj movie"</item>
+        <item>"gfhzGX movie"</item>
+    </string-array>
+</resources>
